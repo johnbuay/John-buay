@@ -5,7 +5,7 @@
 - ~~Create My Website~~
 - `do a group collaboration`
 - [link to my github](https://johnbuay.github.io)
--[link to my gmail](https://johnbuay01@gmail.com)
+- [link to my gmail](https://johnbuay01@gmail.com)
 
 ### Things I Want To Learn
 - creating github codes
@@ -38,8 +38,9 @@ print ("Hello, World !")
 # About Me
 ## Hi I'm *John Buay* 
 ### I'm currently Learning 
--programming at IYF
--Learning how to submit my Github Assignment
+- programming at IYF
+
+- Learning how to submit my Github Assignment
 ### Tasks I've completed 
 1.README.md files
 
