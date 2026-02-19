@@ -1,11 +1,11 @@
 # My Learning Goals 
 ### This Semester 
-- **February2026**
+- **Complete github Assignment**
 - *Complete programming at IYF*
 - ~~Create My Website~~
 - `do a group collaboration`
-[link](https://johnbuay.github.io)
-[link](https://johnbuay01@gmail.com)
+[link to my github](https://johnbuay.github.io)
+[link to my gmail](https://johnbuay01@gmail.com)
 
 ### Things I Want To Learn
 - creating github codes
@@ -24,10 +24,10 @@
 |github copilot| code suggestions|https://github-copilot.com    |
 |code space    | code anywhere   |https://github-codes paces.com|
  ### my tasks
-[✅️] Complete programming at IYF 
-[✅️] create my website 
-[×] review group work
-[×] have a group call
+- [✅️] Complete programming at IYF 
+- [✅️] create my website 
+- [×] review group work
+- [×] have a group call
 
  ### Code language 
  ``` python
@@ -38,19 +38,20 @@ print ("Hello, World !")
 # About Me
 ## Hi I'm *John Buay* 
 ### I'm currently Learning 
- -programming at IYF
- - Learning how to submit my Github Assignment
+-programming at IYF
+-Learning how to submit my Github Assignment
 ### Tasks I've completed 
 1.README.md files
+
 2.github profiles
 ### my code language 
 ```python
 print ("Hello,World !)
 ```
 ### my new tasks
-[✅️] Complete programming at IYF 
-[✅️] create my website 
-[×] review group work
-[×] have a group call
+- [✅️] Complete programming at IYF 
+- [✅️] create my website 
+- [×] review group work
+- [×] have a group call
 
-[link](https://github.com/markdown-practice.md)
+[link to my markdown.md](https://github.com/markdown-practice.md)
