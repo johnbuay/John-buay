@@ -1,9 +1,9 @@
 # My Learning Goals 
 ### This Semester 
-**February2026**
-*Complete programming at IYF*
-~~Create My Website~~
-`do a group collaboration`
+- **February2026**
+- *Complete programming at IYF*
+- ~~Create My Website~~
+- `do a group collaboration`
 [link](https://johnbuay.github.io)
 [link](https://johnbuay01@gmail.com)
 
@@ -11,7 +11,7 @@
 - creating github codes
 - collaborating as a team
 - Background speech 
-  - Be a pro at Coding
+- Be a pro at Coding
 ### Steps to make a commit on Git
 1. create a new file
 2. name the file 
@@ -24,10 +24,10 @@
 |github copilot| code suggestions|https://github-copilot.com    |
 |code space    | code anywhere   |https://github-codes paces.com|
  ### my tasks
- [ ] Complete programming at IYF 
- [ ] create my website 
- [×] review group work
- [×] have a group call
+[✅️] Complete programming at IYF 
+[✅️] create my website 
+[×] review group work
+[×] have a group call
 
  ### Code language 
  ``` python
@@ -48,8 +48,9 @@ print ("Hello, World !")
 print ("Hello,World !)
 ```
 ### my new tasks
-[ ] Complete programming at IYF 
- [ ] create my website 
- [×] review group work
- [×] have a group call
-[link to my markdown](https://github.com/markdown-practice.md)
+[✅️] Complete programming at IYF 
+[✅️] create my website 
+[×] review group work
+[×] have a group call
+
+[link](https://github.com/markdown-practice.md)
