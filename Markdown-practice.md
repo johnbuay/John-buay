@@ -4,8 +4,8 @@
 - *Complete programming at IYF*
 - ~~Create My Website~~
 - `do a group collaboration`
-[link to my github](https://johnbuay.github.io)
-[link to my gmail](https://johnbuay01@gmail.com)
+- [link to my github](https://johnbuay.github.io)
+-[link to my gmail](https://johnbuay01@gmail.com)
 
 ### Things I Want To Learn
 - creating github codes
@@ -22,7 +22,7 @@
 | Tool         |  purpose        |             Link             |
 |--------------|-----------------|------------------------------|
 |github copilot| code suggestions|https://github-copilot.com    |
-|code space    | code anywhere   |https://github-codes paces.com|
+|code space    | code anywhere   |https://github-codespaces.com|
  ### my tasks
 - [✅️] Complete programming at IYF 
 - [✅️] create my website 
