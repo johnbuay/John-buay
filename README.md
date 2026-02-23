@@ -10,6 +10,6 @@
 - Building my personalised web portfolio.
 - Learning code with Vs Code.
  # How to reach me
- - Email : [johnbuay01@gmail.com]
+ - Email : [johnbuay01@gmail.com](johnbuay01@gmail.com)
 - phone number: +254745991739
-- instagram: [sir.buay]
+- instagram: [sir.buay](sir.buay)
